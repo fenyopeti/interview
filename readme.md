@@ -29,3 +29,5 @@ What does it print, why
 
 4. Have you ever used microservice architecture
    * When do you think it is worth it
+
+5. How do you stay informed about newest trends?
